@@ -1,0 +1,1 @@
+copy g:\desenv\sindificios2009\sistemaxp.exe   J:\tonhão /y
